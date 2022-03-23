@@ -1,0 +1,43 @@
+Ideas:
+    1. Portfolio site for makeup artist
+    2. Home page
+    3. About page
+    4. Service page
+    5. Gallery page
+    4. Contact page
+
+
+Home page
+--Navbar
+--hero image 
+--about section
+--service section
+--gallery section
+--contact section
+
+
+About page - Getting to know the artist
+-- Tell the story of the artist via mostly text with well placed images.
+
+Services - Displaying the different services the artists provides
+-- List of services accompanied by images and icons.
+-- Display each service as section
+-- give details of the service and show what it how looked.
+
+Picture Gallery - Displaying the work of the artist
+-- Not much words, small amount of text probably as dates and details about the occaison. with a lot of images.
+
+Contact - How to contact the artist.
+-- Simple contact section with a little details about the artist and business. 
+
+
+To-do
+-Setup / find  fonts 
+-Setup images
+-colors
+-button shapes
+-code homepage
+- make changes if needed.
+
+icons
+<i class="fa-light fa-champagne-glasses"></i>
